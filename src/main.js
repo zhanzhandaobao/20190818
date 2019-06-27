@@ -9,6 +9,9 @@ import 'element-ui/lib/theme-chalk/index.css';
 
 // import "./assets/css/index.css";
 
+//引入css
+import "./assets/css/index.css"
+
 //2。安装elementui
 Vue.use(ElementUI)
 
